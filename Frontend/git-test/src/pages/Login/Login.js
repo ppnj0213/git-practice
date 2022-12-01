@@ -44,7 +44,7 @@ export default function Login() {
                         type='submit'
                         disabled={!isValid}
                     >
-                        로그인
+                        로그
                     </button>
                 </form>
             </main>
